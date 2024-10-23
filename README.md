@@ -1,4 +1,4 @@
-# CalendarEvent
+# Calendar
 Uma pequena lib
 
 
